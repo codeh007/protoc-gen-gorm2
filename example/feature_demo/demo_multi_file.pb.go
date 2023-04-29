@@ -7,7 +7,7 @@
 package example
 
 import (
-	_ "github.com/infobloxopen/protoc-gen-gorm/options"
+	_ "github.com/codeh007/protoc-gen-gorm2/options"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"

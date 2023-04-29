@@ -43,7 +43,7 @@ var (
 	ocTraceImport      = "go.opencensus.io/trace"
 	gatewayImport      = "github.com/infobloxopen/atlas-app-toolkit/gateway"
 	pqImport           = "github.com/lib/pq"
-	gerrorsImport      = "github.com/infobloxopen/protoc-gen-gorm/errors"
+	gerrorsImport      = "github.com/codeh007/protoc-gen-gorm2/errors"
 	timestampImport    = "google.golang.org/protobuf/types/known/timestamppb"
 	durationImport     = "google.golang.org/protobuf/types/known/durationpb"
 	wktImport          = "google.golang.org/protobuf/types/known/wrapperspb"
